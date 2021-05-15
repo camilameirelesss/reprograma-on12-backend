@@ -85,6 +85,13 @@ o ultimo que sobra além do mestre vence a brincadeira
 
 7. Faça um algoritmo que some três números.
 
+pega o primeiro numero e guarda em X
+pega o segundo numero e guarda em Y
+pega o terceiro numero e guarda em Z
+soma X + Y + Z
+exibe o resultado
+
+
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
