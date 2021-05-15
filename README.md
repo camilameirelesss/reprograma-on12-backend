@@ -75,6 +75,14 @@ se não, professor guarda as provas
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
 
+enquanto houver mais de uma pessoa brincando alem do mestre faça
+o mestre sorteia uma das ordens "vivo" ou "morto"
+o mestre verifica se a ordem não foi cumprida pelos participantes então
+retira quem não cumpriu a ordem correta da brincadeira
+fim, enquanto
+o ultimo que sobra além do mestre vence a brincadeira
+
+
 7. Faça um algoritmo que some três números.
 
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
