@@ -17,6 +17,22 @@ guarda a escada
 
 2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
 
+
+Vai até a pia
+coloca um avental
+liga a torneira
+coloca o sabão na bucha
+pega um prato sujo 
+esfrega o prato sujo
+enxagua o prato 
+coloca no escorredor
+verificar se tem mais pratos sujos
+se sim voltar ao passo "pega um prato sujo"
+se não, desliga a torneira
+tira avental
+finaliza 
+
+
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
