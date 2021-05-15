@@ -102,4 +102,12 @@ se não sobrar resto é par
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
 
+pego a primeira nota
+pego a segunda nota
+somo as duas notas
+divido o resultado por dois
+se o resultado for abaixo de 5 está reprovado
+se o resultado for igual ou acima de 5 está aprovado
+
+
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
