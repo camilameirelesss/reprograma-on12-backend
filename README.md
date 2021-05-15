@@ -51,6 +51,13 @@ guarda as ferramentas
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
 
+Recebe o valor do debito
+confirma o debito
+verifica se tem saldo
+se houver saldo realiza o debito
+se não houver saldo avisa que está insuficiente
+
+
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
