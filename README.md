@@ -35,6 +35,20 @@ finaliza
 
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
+pega o macaco
+pega o estepe
+pega a chave de roda
+coloca o macaco embaixo do carro
+sobe o carro com o macaco
+deserosca a roda
+retira a roda
+coloca o estepe
+parafusa o estepe
+desce o carro
+guarda o pneu furado
+guarda as ferramentas
+
+
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
 
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
