@@ -60,6 +60,19 @@ se não houver saldo avisa que está insuficiente
 
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 
+professor pega uma prova de cima da pilha
+professor corrige questão 1
+professor corrige questão 2
+professor corrige questão 3
+professor corrige questão 4
+professor corrige questão 5
+professor coloca a nota
+professor adiciona a prova na nova pilha de provas corrigidas
+professor verifica se existem mais provas para corrigir
+se sim, volta para o primeiro passo
+se não, professor guarda as provas
+
+
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
 
 7. Faça um algoritmo que some três números.
